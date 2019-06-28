@@ -1,15 +1,16 @@
-name: "Sokurenko Mikhail"
+Profile:
+  name: "Sokurenko Mikhail"
 
-contacts:
-  email: "tedpoolioo@gmail.com"
+  contacts:
+    email: "tedpoolioo@gmail.com"
   
-education:
-  university: "BSUIR"
-  speciality: "Automatic Information Processing and Control Systems(АСОИ)"
-  course: 3
+  education:
+    university: "BSUIR"
+    speciality: "Automatic Information Processing and Control Systems(АСОИ)"
+    course: 3
   
-languages:
-  -name: "Ruby, Ruby on Rails"
-  -name: "C++"
-  -name: "Java"
-  -name: "C#"
+  languages:
+    -name: "Ruby, Ruby on Rails"
+    -name: "C++"
+    -name: "Java"
+    -name: "C#"
