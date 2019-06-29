@@ -1,27 +1,12 @@
-Goal:
-  goal: "want to be cool ruby programmer"
-Programming languages:
-  -programming_languages: "Ruby, Ruby on Rails"
-  -programming_languages: "C++"
-  -programming_languages: "Java"
-  -programming_languages: "C#"
-Have a job:
-  have_a_job: "no"
-Laptop:
-  laptop: "Ubuntu 18.04; Windows 8.1"
-English:
-  english: "Intermediate"
-Education:
-  education:
-    name of institution: "BSUIR"
-    speciality: "Automatic Information Processing and Control Systems(АСОИ)"
-    graduation year: 2020
-Phone number:  
-  phone_number: "+375295631712"
-Hours per day:
-  hours_per_day: "8 - 10"
-Age: 
-  age: 20  
+goal: "want to be cool ruby programmer"
+programming_languages: "Ruby, Ruby on Rails, C++, Java, C#"
+have_a_job: "no"
+laptop: "Ubuntu 18.04; Windows 8.1"
+english: "Intermediate"
+education: "2020, Automatic Information Processing and Control Systems(АСОИ), BSUIR"
+phone_number: "+375295631712"
+hours_per_day: "8 - 10"
+age: 20  
 full_name: "Sokurenko Mikhail"
 
 
