@@ -1,41 +1,41 @@
 Profile:
   full_name: "Sokurenko Mikhail"
  
-Age: 
-  age: 20
+  Age: 
+    age: 20
   
-Phone number:  
-  phone_number: "+375295631712"
+  Phone number:  
+    phone_number: "+375295631712"
  
-Goal:
-  goal: "want to be cool ruby programmer"
+  Goal:
+    goal: "want to be cool ruby programmer"
  
-Laptop:
-  laptop: "Ubuntu 18.04; Windows 8.1"
+  Laptop:
+    laptop: "Ubuntu 18.04; Windows 8.1"
 
-Contacts:
-  email: "tedpoolioo@gmail.com"
+  Contacts:
+    email: "tedpoolioo@gmail.com"
   
-Education:
-  education:
-    name of institution: "BSUIR"
-    speciality: "Automatic Information Processing and Control Systems(АСОИ)"
-    graduation year: 2020
+  Education:
+    education:
+      name of institution: "BSUIR"
+      speciality: "Automatic Information Processing and Control Systems(АСОИ)"
+      graduation year: 2020
   
-Programming languages:
-  -programming_languages: "Ruby, Ruby on Rails"
-  -programming_languages: "C++"
-  -programming_languages: "Java"
-  -programming_languages: "C#"
+  Programming languages:
+    -programming_languages: "Ruby, Ruby on Rails"
+    -programming_languages: "C++"
+    -programming_languages: "Java"
+    -programming_languages: "C#"
 
-Have a job:
-  have_a_job: "no"
+  Have a job:
+    have_a_job: "no"
   
-English:
-  english: "Intermediate"
+  English:
+    english: "Intermediate"
     
-Hours per day:
-  hours_per_day: "8 - 10"
+  Hours per day:
+    hours_per_day: "8 - 10"
 
     
   
