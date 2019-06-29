@@ -2,7 +2,7 @@ Profile:
   full_name: "Sokurenko Mikhail"
  
  Age: 
-  age: "20"
+  age: 20
   
  Phone number:  
   phone_number: "+375295631712"
@@ -20,7 +20,7 @@ Profile:
     education:
       name of institution: "BSUIR"
       speciality: "Automatic Information Processing and Control Systems(АСОИ)"
-      graduation year: "2020"
+      graduation year: 2020
   
  Programming languages:
     -programming_languages: "Ruby, Ruby on Rails"
